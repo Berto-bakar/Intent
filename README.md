@@ -4,7 +4,7 @@
 
 
 
-### comentarios
+### Comentarios acerca de la tarea
 
 Realizadas dos Activitys. La actividad principal es un login cuyo nombre de usuario es Berto cuya contraseña es bakar.
 Desde está actividad podemos logearnos o salir de la aplicación mediante el uso de dos botones, cada uno con su tarea correspondiente.
