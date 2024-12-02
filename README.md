@@ -2,6 +2,27 @@
 
 ## Tarea 01 PMDM
 
+* Prueba de la tarea en modelo Pixel 8 API 35
+
+![image](https://github.com/user-attachments/assets/1ce8ebc5-8b21-4c90-8637-954435056572)
+
+![image](https://github.com/user-attachments/assets/ac3232b0-5b7d-49b0-bd23-2e931489bc8a)
+
+* Prueba de la tarea en modelo Pixel Fold API 35
+
+![image](https://github.com/user-attachments/assets/505030e9-632e-4fb4-94dd-27fc4f04a33c)
+
+![image](https://github.com/user-attachments/assets/23abd5e4-b21b-4c2c-804a-a7379f5955c6)
+
+![image](https://github.com/user-attachments/assets/fba583b8-8879-4b51-913f-48ad13a6d3ea)
+
+
+
+
+
+
+  
+
 
 ## Comentarios
 
