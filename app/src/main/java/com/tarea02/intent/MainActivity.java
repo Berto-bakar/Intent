@@ -48,9 +48,8 @@ public class MainActivity extends AppCompatActivity {
         exitButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Cerrar la aplicación
-                finish();  // Esto termina la actividad actual
-                System.exit(0);  // Termina la aplicación
+                // Cerrar todas las actividades y salir de la aplicación
+                finishAffinity();
             }
         });
     }
