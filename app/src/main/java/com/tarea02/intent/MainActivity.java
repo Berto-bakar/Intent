@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
 
     EditText userNameEditText, userPasswordEditText;
-    Button loginButton;
+    Button loginButton, exitButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         userNameEditText = findViewById(R.id.userNameTest);
         userPasswordEditText = findViewById(R.id.userPasswordTest);
         loginButton = findViewById(R.id.button1);
+        exitButton = findViewById(R.id.exitButton);  // Botón de salir
 
         // Configurar el botón de login
         loginButton.setOnClickListener(new View.OnClickListener() {
@@ -40,6 +41,16 @@ public class MainActivity extends AppCompatActivity {
                 } else {
                     Toast.makeText(MainActivity.this, "Credenciales incorrectas", Toast.LENGTH_SHORT).show();
                 }
+            }
+        });
+
+        // Configurar el botón de salir
+        exitButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // Cerrar la aplicación
+                finish();  // Esto termina la actividad actual
+                System.exit(0);  // Termina la aplicación
             }
         });
     }
