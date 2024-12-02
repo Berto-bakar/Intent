@@ -10,6 +10,9 @@
 
 * Prueba de la tarea en modelo Pixel Fold API 35
 
+![image](https://github.com/user-attachments/assets/5a70588b-5983-451c-b648-a02129ccbc16)
+
+
 ![image](https://github.com/user-attachments/assets/9cdcf45f-f73c-4c43-b8eb-5ee6bdf4eb4a)
 
 ![image](https://github.com/user-attachments/assets/fba583b8-8879-4b51-913f-48ad13a6d3ea)
@@ -31,9 +34,7 @@ Abre Android Studio.
 En la pantalla de inicio, selecciona "Get from Version Control", (Desde el menú escoge ""New/Project from Version Control").
 En la ventana que aparece, selecciona Git.
 En el campo URL, pega la URL del repositorio de GitHub que deseas clonar.
-
-  https://github.com/Berto-bakar/MyApplicationTarea01.git
-
+https://github.com/Berto-bakar/MyApplicationTarea01.git
 Elige la ubicación donde deseas guardar el proyecto en tu computadora.
 Haz clic en Clone.
 
@@ -46,7 +47,6 @@ Android Studio configurará el proyecto automáticamente y lo abrirá.
 
 3. Sincronizar el proyecto
 Una vez que el proyecto esté abierto:
-
 Android Studio puede pedirte que sincronices el proyecto con los archivos de Gradle. Haz clic en Sync Now en la barra superior para asegurarte de que todas las dependencias estén correctamente descargadas e instaladas.
 
 4. Ejecutar el proyecto
