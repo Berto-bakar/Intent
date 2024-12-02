@@ -21,7 +21,7 @@ public class Activity2 extends AppCompatActivity {
 
         // Mostrar el mensaje de bienvenida
         returnTextView = findViewById(R.id.returnText);
-        returnTextView.setText("Bienvenido\n " + username);
+        returnTextView.setText("Adiós\n " + username);
 
         // Configurar el botón de regreso
         Button returnButton = findViewById(R.id.button2);
