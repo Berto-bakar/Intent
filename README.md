@@ -2,16 +2,25 @@
 
 ## Tarea 01 PMDM
 
-* Prueba de la tarea en modelo Pixel 8 API 35
+
+
+### comentarios
+
+Realizadas dos Activitys. La actividad principal es un login cuyo nombre de usuario es Berto cuya contraseña es bakar.
+Desde está actividad podemos logearnos o salir de la aplicación mediante el uso de dos botones, cada uno con su tarea correspondiente.
+La segunda actividad nos muestra el mensaje de bienbenid@ junto con el nombre de usuario.
+Las dos actividades cuentan con un fragmento superior en el que se muestra el "título" de la tarea y otro inferior,
+en el que se muestra el texto by berto_bakar, osease yo mismo.
+
+### Prueba de la tarea en modelo Pixel 8 API 35
 
 ![image](https://github.com/user-attachments/assets/1ce8ebc5-8b21-4c90-8637-954435056572)
 
 ![image](https://github.com/user-attachments/assets/ac3232b0-5b7d-49b0-bd23-2e931489bc8a)
 
-* Prueba de la tarea en modelo Pixel Fold API 35
+### Prueba de la tarea en modelo Pixel Fold API 35
 
 ![image](https://github.com/user-attachments/assets/5a70588b-5983-451c-b648-a02129ccbc16)
-
 
 ![image](https://github.com/user-attachments/assets/9cdcf45f-f73c-4c43-b8eb-5ee6bdf4eb4a)
 
