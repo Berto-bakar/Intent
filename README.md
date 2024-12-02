@@ -3,9 +3,11 @@
 ## Tarea 02 PMDM
 
 
-Comentarios
-Como importar un proyecto desde GitHub a Android Studio
-Clonar el repositorio desde GitHub Abre Android Studio. En la pantalla de inicio, selecciona "Get from Version Control", (Desde el menú escoge ""New/Project from Version Control"). En la ventana que aparece, selecciona Git. En el campo URL, pega la URL del repositorio de GitHub que deseas clonar.
+## Comentarios
+
+### Como importar un proyecto desde GitHub a Android Studio
+Clonar el repositorio desde GitHub
+Abre Android Studio. En la pantalla de inicio, selecciona "Get from Version Control", (Desde el menú escoge ""New/Project from Version Control"). En la ventana que aparece, selecciona Git. En el campo URL, pega la URL del repositorio de GitHub que deseas clonar.
 https://github.com/Berto-bakar/MyApplicationTarea01.git
 
 Elige la ubicación donde deseas guardar el proyecto en tu computadora. Haz clic en Clone.
