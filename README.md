@@ -10,7 +10,7 @@
 
 * Prueba de la tarea en modelo Pixel Fold API 35
 
-![image](https://github.com/user-attachments/assets/505030e9-632e-4fb4-94dd-27fc4f04a33c)
+![image](https://github.com/user-attachments/assets/9cdcf45f-f73c-4c43-b8eb-5ee6bdf4eb4a)
 
 ![image](https://github.com/user-attachments/assets/fba583b8-8879-4b51-913f-48ad13a6d3ea)
 
